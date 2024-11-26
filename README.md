@@ -22,7 +22,7 @@ To run the project, the following dependencies are required:
 ### Data Visualization
 
 ### Distribution of Age
-![Loan Outcome Distribution](eda/Screenshot 2024-11-26 at 4.58.05 PM.png)
+![Loan Outcome Distribution]([eda/Screenshot 2024-11-26 at 4.58.05 PM.png](https://github.com/kanika2601/Loan_Outcome_Prediction/blob/52790690aadc64b2fd51cf69d9ba266b6ccc7057/eda/Screenshot%202024-11-26%20at%204.58.05%20PM.png))
 
 ### Average Cash Incoming (30 Days) by Age
 
